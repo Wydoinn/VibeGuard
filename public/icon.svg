@@ -1,0 +1,33 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <path
+    d="M16 19 Q26 13 34 33 Q42 53 58 23"
+    stroke="url(#vg-b)"
+    stroke-width="3"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.45"
+  />
+  <path
+    d="M10 25 Q22 15 32 39 Q42 63 54 29"
+    stroke="url(#vg-a)"
+    stroke-width="5.5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <circle cx="55" cy="18" r="3.5" fill="url(#vg-dot)"/>
+  <defs>
+    <linearGradient id="vg-a" x1="10" y1="25" x2="54" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="vg-b" x1="16" y1="19" x2="58" y2="23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="vg-dot" x1="51.5" y1="14.5" x2="58.5" y2="21.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+</svg>
