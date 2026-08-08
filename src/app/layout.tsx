@@ -23,7 +23,7 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "https://vibeguard.app";
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "VibeGuard — Privacy-First AI Writing Auditor",
+    default: "VibeGuard - AI Writing Auditor",
     template: "%s | VibeGuard",
   },
   description:
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: baseUrl,
     siteName: "VibeGuard",
-    title: "VibeGuard — Privacy-First AI Writing Auditor",
+    title: "VibeGuard - AI Writing Auditor",
     description:
       "Analyze tone, readability, and inclusivity using AI that runs entirely in your browser. Your text never leaves your device.",
     images: [
@@ -53,13 +53,13 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "VibeGuard — Privacy-First AI Writing Auditor",
+        alt: "VibeGuard - AI Writing Auditor",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "VibeGuard — Privacy-First AI Writing Auditor",
+    title: "VibeGuard - AI Writing Auditor",
     description:
       "Analyze tone, readability, and inclusivity using AI that runs entirely in your browser.",
     images: ["/og-image.png"],
