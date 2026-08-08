@@ -7,6 +7,8 @@ clarity, readability, and inclusivity, entirely in your browser.
 
 [![License](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
 
+[Demo](https://github.com/user-attachments/assets/8132f168-ec15-4f2f-b078-4ed9d9beba9d)
+
 </div>
 
 ## What It Does
